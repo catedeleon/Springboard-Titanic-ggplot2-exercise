@@ -1,5 +1,6 @@
-# titanic is avaliable in the DataCamp workspace
-# This code aims to predict one's chances of surviving the Titanic tragedy by going through the statistics of survivors' age, sex, and passenger class.
+# The titanic data set used here was made avaliable in the DataCamp workspace
+# This code aims to predict one's chances of surviving the Titanic tragedy
+# by going through the statistics of survivors' age, sex, and passenger class.
 
 # 1 - Check the structure of titanic
 str(titanic)
